@@ -14,9 +14,9 @@ import { Testimonials } from "@/components/site/testimonials";
 import { CtaSection } from "@/components/site/cta-section";
 import { MARQUEE } from "@/lib/site-content";
 
-const title = "Digital Marketing Agency in India | Glow Grow India";
+const title = "Digital Marketing Agency in India | Glow Grow Marketing";
 const description =
-  "Glow Grow India is a growth-focused digital marketing agency for social media, performance marketing, branding, SEO and event marketing. We make brands glow and businesses grow.";
+  "Glow Grow Marketing is a growth-focused digital marketing agency for social media, performance marketing, branding, SEO and event marketing. We make brands glow and businesses grow.";
 
 export const Route = createFileRoute("/")({
   head: () => ({
@@ -40,7 +40,7 @@ export const Route = createFileRoute("/")({
         children: JSON.stringify({
           "@context": "https://schema.org",
           "@type": "ProfessionalService",
-          name: "Glow Grow India",
+          name: "Glow Grow Marketing",
           description,
           url: "https://glowgrowmarketing.lovable.app/",
           areaServed: "India",
@@ -81,7 +81,7 @@ function Index() {
             </Reveal>
             <Reveal delay={0.16}>
               <p className="mt-8 max-w-xl text-base leading-relaxed text-muted-foreground sm:text-lg">
-                Glow Grow India is a modern digital growth agency helping brands turn attention into
+                Glow Grow Marketing is a modern digital growth agency helping brands turn attention into
                 audience, audience into leads, and ideas into growth.
               </p>
             </Reveal>

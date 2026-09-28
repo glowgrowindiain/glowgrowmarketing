@@ -3,9 +3,9 @@ import { LegalPage } from "@/components/site/legal-page";
 import { BRAND } from "@/lib/site-content";
 
 const url = "https://glowgrowmarketing.lovable.app/terms";
-const title = "Terms & Conditions | Glow Grow India";
+const title = "Terms & Conditions | Glow Grow Marketing";
 const description =
-  "Terms and conditions for using the Glow Grow India website and engaging our digital marketing and creative services.";
+  "Terms and conditions for using the Glow Grow Marketing website and engaging our digital marketing and creative services.";
 
 export const Route = createFileRoute("/terms")({
   head: () => ({

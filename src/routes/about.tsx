@@ -5,9 +5,9 @@ import { Eyebrow, Section } from "@/components/site/ui-bits";
 import { Reveal } from "@/components/site/motion-primitives";
 import founderAsset from "@/assets/kartik-garg.jpg.asset.json";
 
-const title = "About Glow Grow India — Digital Marketing Agency in India";
+const title = "About Glow Grow Marketing — Digital Marketing Agency in India";
 const description =
-  "Glow Grow India is a growth-focused digital marketing and creative agency working at the intersection of marketing, creativity and technology.";
+  "Glow Grow Marketing is a growth-focused digital marketing and creative agency working at the intersection of marketing, creativity and technology.";
 
 export const Route = createFileRoute("/about")({
   head: () => ({
@@ -39,7 +39,7 @@ function AboutPage() {
         </h1>
         <div className="mt-10 grid gap-10 lg:grid-cols-2">
           <p className="text-lg leading-relaxed text-muted-foreground">
-            Glow Grow India was built with one simple idea — businesses don't need more noise. They
+            Glow Grow Marketing was built with one simple idea — businesses don't need more noise. They
             need the right strategy, creative execution and consistent growth.
           </p>
           <Reveal>
@@ -57,7 +57,7 @@ function AboutPage() {
         <Reveal className="flex flex-col gap-8 border border-white/10 bg-brand-surface/40 p-8 backdrop-blur-sm sm:flex-row sm:items-center sm:p-12">
           <img
             src={founderAsset.url}
-            alt="Kartik Garg, founder of Glow Grow India"
+            alt="Kartik Garg, founder of Glow Grow Marketing"
             width={640}
             height={800}
             loading="lazy"
@@ -66,10 +66,10 @@ function AboutPage() {
           <div>
             <h2 className="font-display text-3xl font-bold tracking-tight uppercase">Kartik Garg</h2>
             <p className="mt-2 text-xs tracking-[0.24em] text-muted-foreground uppercase">
-              Founder, Glow Grow India
+              Founder, Glow Grow Marketing
             </p>
             <p className="mt-5 max-w-xl text-sm leading-relaxed text-muted-foreground">
-              Building Glow Grow India as a growth partner for brands that want to be noticed — and
+              Building Glow Grow Marketing as a growth partner for brands that want to be noticed — and
               want the numbers to back it up.
             </p>
           </div>

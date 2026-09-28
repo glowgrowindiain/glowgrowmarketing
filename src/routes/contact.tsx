@@ -5,9 +5,9 @@ import { Eyebrow, Section } from "@/components/site/ui-bits";
 import { Reveal } from "@/components/site/motion-primitives";
 import { BRAND } from "@/lib/site-content";
 
-const title = "Contact Glow Grow India — Start a Project";
+const title = "Contact Glow Grow Marketing — Start a Project";
 const description =
-  "Tell us about your brand and growth goals. Glow Grow India replies to every enquiry within one working day.";
+  "Tell us about your brand and growth goals. Glow Grow Marketing replies to every enquiry within one working day.";
 
 export const Route = createFileRoute("/contact")({
   head: () => ({

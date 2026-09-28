@@ -5,7 +5,7 @@ const SPREADSHEET_ID = "1RLPM32_-PYGcjqmoJRLv6nmuTrRf_rDHJP8fTnLB-Bo";
 const RANGE = "Leads!A:J";
 
 /**
- * Appends a lead as a row in the Glow Grow India leads spreadsheet.
+ * Appends a lead as a row in the Glow Grow Marketing leads spreadsheet.
  * Never throws — sheet sync must not block saving the enquiry.
  */
 export async function appendLeadToSheet(input: LeadSubmissionValues): Promise<void> {

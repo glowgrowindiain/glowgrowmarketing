@@ -31,11 +31,11 @@ export function Navbar() {
           to="/"
           className="flex items-center"
           onClick={() => setOpen(false)}
-          aria-label="Glow Grow India home"
+          aria-label="Glow Grow Marketing home"
         >
           <img
             src={logoAsset.url}
-            alt="Glow Grow India"
+            alt="Glow Grow Marketing"
             width={800}
             height={415}
             className={cn("w-auto transition-all duration-300", scrolled ? "h-8" : "h-10 sm:h-11")}

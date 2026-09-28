@@ -1,5 +1,5 @@
 export const BRAND = {
-  name: "Glow Grow India",
+  name: "Glow Grow Marketing",
   tagline: "We Make Brands Glow. We Make Businesses Grow.",
   email: "glowgrowindia.in@gmail.com",
   phone: "+91 99935 51132",
@@ -127,7 +127,7 @@ export const INDUSTRIES = [
 export const TESTIMONIALS = [
   {
     quote:
-      "Glow Grow India has been great to work with. Their creative approach and understanding of the Gen-Z audience have really helped our events and social media grow.",
+      "Glow Grow Marketing has been great to work with. Their creative approach and understanding of the Gen-Z audience have really helped our events and social media grow.",
     name: "Narendra Shekhawat",
     role: "OWNER",
     company: "ANANTA HOSPITALITY PVT LTD",

@@ -63,7 +63,7 @@ export function WhySection() {
     <Section className="border-y border-white/10 bg-brand-surface/30">
       <div className="grid gap-14 lg:grid-cols-[1.1fr_1fr]">
         <SectionHeading
-          eyebrow="Why Glow Grow India"
+          eyebrow="Why Glow Grow Marketing"
           title={
             <>
               We don't just create content.
