@@ -141,14 +141,14 @@ export const TESTIMONIALS = [
   },
   {
     quote:
-      "Great experience working together. Their creative ideas and marketing efforts helped us reach a wider audience, build better visibility, and attract more engagement.”",
+      "Great experience working together. Their creative ideas and marketing efforts helped us reach a wider audience, build better visibility, and attract more engagement.",
     name: "Gaurav Sharma",
     role: "OWNER",
     company: "ARROW SPORTS CAFE AND HOTELS",
   },
   {
     quote:
-      "“Loved the energy and creativity they brought to our travel campaigns. Their efforts helped us reach more people and generate strong interest in our trips.”",
+      "Loved the energy and creativity they brought to our travel campaigns. Their efforts helped us reach more people and generate strong interest in our trips.",
     name: "Akhil Watts ",
     role: "FOUNDER",
     company: "THE WANDERHAULICS",
