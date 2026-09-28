@@ -1,11 +1,11 @@
 # Glow Grow Digital
 
-CREATE A WEBSITE FOR GLOW GROW INDIA
+CREATE A WEBSITE FOR GLOW GROW MARKETING
 MARKETING AND SOCIAL MEDIA AGENCY
 
 This project was built with [Lovable](https://lovable.dev).
 
-**Live app**: https://glowgrowindia.lovable.app
+**Live app**: https://glowgrowmarketing.lovable.app
 
 ## Build with Lovable
 

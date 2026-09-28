@@ -3,9 +3,9 @@ import { LegalPage } from "@/components/site/legal-page";
 import { BRAND } from "@/lib/site-content";
 
 const url = "https://glowgrowmarketing.lovable.app/privacy-policy";
-const title = "Privacy Policy | Glow Grow India";
+const title = "Privacy Policy | Glow Grow Marketing";
 const description =
-  "How Glow Grow India collects, uses, stores and protects information submitted through our website and enquiry forms.";
+  "How Glow Grow Marketing collects, uses, stores and protects information submitted through our website and enquiry forms.";
 
 export const Route = createFileRoute("/privacy-policy")({
   head: () => ({

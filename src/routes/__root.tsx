@@ -23,7 +23,7 @@ function NotFoundComponent() {
     <div className="relative flex min-h-screen items-center justify-center overflow-hidden bg-brand-ink px-5 py-24">
       <div className="pointer-events-none absolute inset-x-0 top-1/2 h-px bg-brand-glow/30" />
       <div className="relative max-w-2xl text-center">
-        <img src={logoAsset.url} alt="Glow Grow India" width={800} height={415} className="mx-auto h-12 w-auto" />
+        <img src={logoAsset.url} alt="Glow Grow Marketing" width={800} height={415} className="mx-auto h-12 w-auto" />
         <p className="mt-12 text-xs font-semibold tracking-[0.32em] text-brand-glow uppercase">Error 404</p>
         <h1 className="mt-5 font-display text-5xl leading-[0.92] font-bold tracking-tight text-foreground uppercase sm:text-7xl">
           This page lost its glow.
@@ -85,10 +85,10 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
     meta: [
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { title: "Glow Grow India — Digital Marketing Agency in India" },
-      { name: "description", content: "Glow Grow India is a growth-focused digital marketing and creative agency for social media, performance marketing, branding, SEO and events." },
+      { title: "Glow Grow Marketing — Digital Marketing Agency in India" },
+      { name: "description", content: "Glow Grow Marketing is a growth-focused digital marketing and creative agency for social media, performance marketing, branding, SEO and events." },
       { name: "author", content: "Lovable" },
-      { property: "og:site_name", content: "Glow Grow India" },
+      { property: "og:site_name", content: "Glow Grow Marketing" },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },
       { name: "google-site-verification", content: "gjhTbIal2EpK0RgHOBeMqJe6minnZgETjVUFGJtyGzw" },

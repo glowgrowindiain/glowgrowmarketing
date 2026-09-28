@@ -19,7 +19,7 @@ export function Footer() {
         <div className="md:col-span-2">
           <img
             src={logoAsset.url}
-            alt="Glow Grow India"
+            alt="Glow Grow Marketing"
             width={800}
             height={415}
             loading="lazy"
@@ -31,21 +31,21 @@ export function Footer() {
           <div className="mt-6 flex gap-3">
             <a
               href={BRAND.instagram}
-              aria-label="Glow Grow India on Instagram"
+              aria-label="Glow Grow Marketing on Instagram"
               className="rounded-full border border-white/15 p-2.5 transition-colors hover:border-brand-glow hover:text-brand-glow"
             >
               <Instagram className="h-4 w-4" />
             </a>
             <a
               href={BRAND.linkedin}
-              aria-label="Glow Grow India on LinkedIn"
+              aria-label="Glow Grow Marketing on LinkedIn"
               className="rounded-full border border-white/15 p-2.5 transition-colors hover:border-brand-glow hover:text-brand-glow"
             >
               <Linkedin className="h-4 w-4" />
             </a>
             <a
               href={`mailto:${BRAND.email}`}
-              aria-label="Email Glow Grow India"
+              aria-label="Email Glow Grow Marketing"
               className="rounded-full border border-white/15 p-2.5 transition-colors hover:border-brand-glow hover:text-brand-glow"
             >
               <Mail className="h-4 w-4" />

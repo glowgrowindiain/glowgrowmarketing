@@ -4,9 +4,9 @@ import { ProcessSection, ServicesSection } from "@/components/site/sections";
 import { Eyebrow, Marquee, Section } from "@/components/site/ui-bits";
 import { MARQUEE } from "@/lib/site-content";
 
-const title = "Services — Digital Marketing, Social Media & Performance | Glow Grow India";
+const title = "Services — Digital Marketing, Social Media & Performance | Glow Grow Marketing";
 const description =
-  "Social media management, performance marketing, branding, influencer marketing, SEO & AEO, content production and event marketing from Glow Grow India.";
+  "Social media management, performance marketing, branding, influencer marketing, SEO & AEO, content production and event marketing from Glow Grow Marketing.";
 
 export const Route = createFileRoute("/services")({
   head: () => ({
